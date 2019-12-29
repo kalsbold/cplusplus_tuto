@@ -13,30 +13,6 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="Variable">
-      <UniqueIdentifier>{9f1a7990-a88a-46cf-9e30-6a3a58a73d15}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Operator">
-      <UniqueIdentifier>{58b296d7-c500-46cf-909c-decc800ec90c}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Function">
-      <UniqueIdentifier>{acd0771d-d9d7-46ec-a7ea-f8ff3c6ecdad}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Structure">
-      <UniqueIdentifier>{723515bd-3cc6-4f4c-ba89-c92d77acdfee}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Class">
-      <UniqueIdentifier>{58ba9328-0128-437d-9ee1-8b3dc266ae38}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Template">
-      <UniqueIdentifier>{39f0e086-00ac-40c5-ade9-49b33a7a65e9}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="File I/O">
-      <UniqueIdentifier>{aa6422d1-796e-4c73-850c-840f25028c46}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Inheritance">
-      <UniqueIdentifier>{58450496-3929-44f8-8915-9225025fe0bd}</UniqueIdentifier>
-    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h">
@@ -47,7 +23,7 @@
     <ClCompile Include="pch.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="cplusplus_tuto.cpp">
+    <ClCompile Include="File Classification.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
