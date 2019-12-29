@@ -50,5 +50,8 @@
     <ClCompile Include="cplusplus_tuto.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Variable.cpp">
+      <Filter>Variable</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
