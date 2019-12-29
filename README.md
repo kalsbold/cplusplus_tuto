@@ -1,6 +1,7 @@
 # cplusplus_tuto
 
 C/C++ 내용 정리 및 소스코드
+
 개념내용은 Tistory 쪽으로 https://server-workshop.tistory.com/
 
 변수
