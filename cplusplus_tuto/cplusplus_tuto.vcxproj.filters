@@ -37,6 +37,9 @@
     <Filter Include="Inheritance">
       <UniqueIdentifier>{58450496-3929-44f8-8915-9225025fe0bd}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Pointer">
+      <UniqueIdentifier>{e19f2f7a-da30-4fa1-81d2-a6e60ec504d2}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h">
@@ -52,6 +55,18 @@
     </ClCompile>
     <ClCompile Include="Variable.cpp">
       <Filter>Variable</Filter>
+    </ClCompile>
+    <ClCompile Include="Operator\Operator.cpp">
+      <Filter>Operator</Filter>
+    </ClCompile>
+    <ClCompile Include="Pointer\Pointer.cpp">
+      <Filter>Pointer</Filter>
+    </ClCompile>
+    <ClCompile Include="Class\Class.cpp">
+      <Filter>Class</Filter>
+    </ClCompile>
+    <ClCompile Include="MaxCounting.cpp">
+      <Filter>File I/O</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
